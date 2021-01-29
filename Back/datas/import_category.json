@@ -1,0 +1,74 @@
+[
+   {
+      "id": 1,
+      "entitled": "Randonnée",
+      "color": "#795548",
+      "image": "randonnee.jpeg"
+   },
+   {
+      "id": 2,
+   "entitled": "Farniente",
+   "color": "#ffc107",
+   "image": "farniente.jpeg"
+   },
+   {
+      "id": 3,
+   "entitled": "Week-end",
+   "color": "#59f19c",
+   "image": "weekend.jpeg"
+},
+   {
+      "id": 4,
+   "entitled":"Road Trip",
+   "color":"#607d8b",
+   "image": "roadtrip.jpeg"
+   },
+   {
+      "id": 5,
+   "entitled":"City Trip",
+   "color":"#673ab7",
+   "image": "citytrip.jpeg"
+   },
+   {
+      "id": 6,
+   "entitled":"Humanitaire",
+   "color":"#ED3B3B",
+   "image": "humanitaire.jpeg"
+   },
+   {
+      "id": 7,
+   "entitled":"Festival",
+   "color":"#81f100",
+   "image": "festival.jpeg"
+   },
+   {
+      "id": 8,
+   "entitled":"Croisière",
+   "color":"#00bcd4",
+   "image": "croisiere.jpeg"
+   },
+   {
+      "id": 9,
+   "entitled":"Sportif",
+   "color":"#3f51b5",
+   "image": "sportif.jpeg"
+   },
+   {
+      "id": 10,
+   "entitled":"Noces",
+   "color":"#e91e63",
+   "image": "noces.jpeg"
+   },
+   {
+      "id": 11,
+   "entitled":"Safari",
+   "color":"#ff6838",
+   "image": "safari.jpeg"
+   },
+   {
+      "id": 12,
+   "entitled":"Business",
+   "color":"#9e9e9e",
+   "image": "business.jpeg"
+}
+]

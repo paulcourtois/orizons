@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "HTML - trop fastoche",
+        "content": "Super facile le HTML et le CSS. On a ajouté des paillettes partout !",
+        "score": 0,
+        "member_id": 7,
+        "trip_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Les débuts dans le JS",
+        "content": "Le javascript et le DOM c''vrai qu'' a complètement galéré cette saison",
+        "score": 0,
+        "member_id": 3,
+        "trip_id": 1
+    }
+]
